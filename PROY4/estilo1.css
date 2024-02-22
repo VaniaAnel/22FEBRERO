@@ -1,0 +1,58 @@
+*{
+    background: radial-gradient(white, #00FFFF, #0099FF );
+    margin: 20px;
+}
+
+body
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif, Impact;
+}
+
+
+h1
+{
+    padding: 10px;
+    border: black;
+    border-style: dotted;
+    color: deeppink;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h2
+{
+    padding: 10px;
+    border: black;
+    border-style: dotted;
+    color: blue;
+    text-decoration: underline;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+p
+{
+    color: black;
+    text-align: justify;
+    background: aquamarine;
+
+}
+
+img
+{
+    border-radius: 20px;
+    width: 95%;
+    padding: 7px;
+    border: white;
+    border-style: hidden;
+    background: rgb(195, 236, 236);
+    
+}
+
+table
+{
+    background-color: azure;
+    color: aliceblue;
+    background: white;
+}
